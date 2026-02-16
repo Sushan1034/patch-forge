@@ -1,0 +1,4 @@
+-- PATCH_ID: 20260216_81600_update_users
+-- PATCH_TYPE: SCHEMA
+
+ALTER TABLE users ADD COLUMN phone INT(10);
