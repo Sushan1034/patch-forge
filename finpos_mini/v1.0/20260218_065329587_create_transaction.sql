@@ -5,7 +5,7 @@
 CREATE TABLE transactions (
     id SERIAL PRIMARY KEY,   
     amount DECIMAL(10, 2) NOT NULL,
-    transaction_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    transaction_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 INSERT INTO transactions (id, amount) VALUES (1, 100.00);
