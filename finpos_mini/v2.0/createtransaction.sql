@@ -1,4 +1,4 @@
--- PATCH_ID: 20260218_071411311_create_transaction.sql
+-- PATCH_ID: 20260218_071411311_create_transaction
 -- PATCH_TYPE: SCHEMA
 -- AUTHOR: Sushan Aryal
 
