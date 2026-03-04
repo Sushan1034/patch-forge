@@ -2,4 +2,5 @@
 -- PATCH_TYPE: SCHEMA
 -- AUTHOR: Sushan Aryal
 
-ALTER TABLE users ADD COLUMN phone INT(10);
+ALTER TABLE users 
+ADD COLUMN phone VARCHAR(15);
