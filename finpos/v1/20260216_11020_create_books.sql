@@ -1,6 +1,6 @@
 -- PATCH_ID: 20260216_11020_create_books
 -- PATCH_TYPE: SCHEMA
-
+-- AUTHOR: Sushan Aryal
 CREATE TABLE books (
     id SERIAL PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
