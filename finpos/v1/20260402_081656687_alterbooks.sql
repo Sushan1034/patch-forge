@@ -1,0 +1,5 @@
+-- PATCH_ID: 20260402_081656687_alterbooks.sql
+-- PATCH_TYPE: MIXED
+-- AUTHOR: Sushan Aryal
+
+ALTER TABLE books ADD COLUMN IF NOT EXISTS status Buy;
