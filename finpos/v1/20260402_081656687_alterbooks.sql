@@ -2,4 +2,4 @@
 -- PATCH_TYPE: MIXED
 -- AUTHOR: Sushan Aryal
 
-ALTER TABLE books ADD COLUMN IF NOT EXISTS status Buy;
+ALTER TABLE books ADD COLUMN IF NOT EXISTS status buy;
