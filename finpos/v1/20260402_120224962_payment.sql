@@ -2,5 +2,5 @@
 -- PATCH_TYPE: MIXED
 -- AUTHOR: Sushan Aryal
 
-ALTER TABLE payment.mainsh
+ALTER TABLE payment.manish
 rename column roles to roles_type;
