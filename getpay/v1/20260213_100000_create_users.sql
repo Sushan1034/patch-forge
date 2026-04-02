@@ -1,5 +1,6 @@
 -- PATCH_ID: 20260213_100000_create_users
 -- PATCH_TYPE: SCHEMA
+-- AUTHOR: Sushann Aryal
 
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
