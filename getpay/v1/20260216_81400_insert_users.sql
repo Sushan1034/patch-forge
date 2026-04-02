@@ -1,5 +1,6 @@
 -- PATCH_ID: 20260216_81400_insert_users
 -- PATCH_TYPE: DATA
+-- AUTHOR: Sushann Aryal
 
 INSERT INTO users (name) VALUES ('Alice');
 INSERT INTO users (name) VALUES ('Bob');    
